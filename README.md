@@ -12,6 +12,12 @@ El siguiente es el diagrama de clases.
 El siguiente es el diagrama de clases.
 ![Diagrama de secuencia ](/diagramas/DiagramaDeSecuencia.png)
 
-## ¿En qué se convirtió el que inicialmente se penso como adaptador?
+## ¿En qué se convirtió el que inicialmente se pensó como decorador?
+
+Finalmente se convirtió en un adaptador.
+
+## Integrante
+
+Óscar Duván Olarte 20162020450
 
 
